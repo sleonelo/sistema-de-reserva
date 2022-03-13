@@ -7,4 +7,7 @@ Para correr el sistema solo basta en verlo en vs code! u en cualquier editor de 
 
 Al iniciar esta Demo , solo hay que cambiarle la ruta por la que se encuentra al momento de clonar este repositorio! 
 
+e instalar tkinter en el vscode con el comando "py -m pip install modulo_a_instalar" , en este caso seria "py -m pip install pip" ( sin comillas!)
+luego instalar la libreria tkcalendar "py -m pip install tkcalendar".
+
 Desde ya, gracias por su tiempo
